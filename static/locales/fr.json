@@ -1,0 +1,28 @@
+{
+  "website":{
+    "title": "Soutien solidaire aux sans-abris de Tokyo"
+  },
+  "nav":{
+    "home": "Accueil",
+    "about_me": "Actualites",
+    "skills": "Nos actions",
+    "projects": "Inscriptions",
+    "career": "Dons",
+    // "blog": "Donations",
+    "link": "Contact"
+  },
+  "about_me":{
+    "about_me": "Bienvenue!",
+    "des": "Fondée en 2014, notre association de maraude à Tokyo s'engage à être solidaire de la population sans-abri souvent oubliée de la ville en leur fournissant des repas et autres ressources essentielles."
+  },
+  "skills":{
+    "my_skills": "Qui sommes nous?"
+  },
+  "blog":{
+    "my_blog": "Actualites"
+  },
+  "link":{
+    "link": "Nous Contacter",
+    "view": "views"
+  }
+}

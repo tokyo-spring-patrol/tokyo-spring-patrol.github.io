@@ -1,0 +1,14 @@
+{
+  "website":{
+    "title": "Cours de Theatre francais a Tokyo"
+  },
+  "nav":{
+    "home": "Accueil",
+    "about_me": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "career": "Theatre",
+    "blog": "Actualites",
+    "link": "Contact"
+  }
+}
