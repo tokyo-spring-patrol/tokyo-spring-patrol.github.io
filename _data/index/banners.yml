@@ -2,8 +2,15 @@
 # Add items for each banner image in the carousel
 #
 # Images are expected to be located in `static/assets/img/`.
-- src: landing/header_one.jpg  #tokyo_spring_header_one.jpg
-  title: first banner image
 
-- src: landing/header_two.jpg
-  title: second banner image
+- src: patrol/tshp_logo_long.png
+  title: TSHP Logo
+
+- src: landing/bentos_preparation_2.png #landing/header_one.jpg  #tokyo_spring_header_one.jpg
+  title: Food Preparation
+
+- src: landing/ueno_patrol.png #landing/header_two.jpg
+  title: Patrol in Ueno
+
+- src: landing/food_donation_ueno.png #landing/header_two.jpg
+  title: Food Donation in Ueno
