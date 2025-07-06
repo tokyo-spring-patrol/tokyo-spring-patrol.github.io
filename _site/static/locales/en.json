@@ -5,9 +5,9 @@
   "nav":{
     "home": "Home",
     "about_me": "Latest News",
-    "skills": "Our actions",
+    "skills": "Donations",
     "projects": "Join us!",
-    "career": "Donations",
+    "career": "Our actions",
     // "blog": "News",
     "link": "Contact"
   },
@@ -16,7 +16,7 @@
     "des": "Founded in 2014, our outreach organization in Tokyo is committed to standing in solidarity with the city's often forgotten homeless population by providing essential resources."
   },
   "skills":{
-    "my_skills": "What do we do?",
+    "my_skills": "Help us!",
     "des": ,
   },
   "projects":{
@@ -26,7 +26,7 @@
     // "familycode": "This is another project."
   },
   "career":{
-    "my_career": "Help us!",
+    "my_career": "What do we do?",
     // "nextcode": "Nextcode",
     // "nextcode_des": "Now I am in Nextcode and develop website with Python code for genetic analysis.",
     // "nextcode_date": "Apr. 2016",
