@@ -1,14 +1,21 @@
 {
   "website":{
-    "title": "Cours de Theatre francais a Tokyo"
+    "title": "東京のホームレスへの連帯支援"
   },
   "nav":{
-    "home": "Accueil",
-    "about_me": "About",
-    "skills": "Skills",
-    "projects": "Projects",
-    "career": "Theatre",
-    "blog": "Actualites",
-    "link": "Contact"
-  }
+    "home": "ホーム",
+    "about_me": "最新ニュース",
+    "skills": "寄付",
+    "projects": "参加する",
+    "career": "活動",
+    "link": "お問い合わせ"
+  },
+  "about_me":{
+    "about_me": "Welcome!",
+    "des": ""
+  },
+  "skills":{
+    "my_skills": "助けてください！",
+    "des": ,
+  },
 }
